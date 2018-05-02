@@ -6,7 +6,7 @@ spring:
       discovery:
         enabled: true
         service-id: config-server-1
-      name: config-server-1
+      name: xinqiuboche
       profile: dev
 
 
